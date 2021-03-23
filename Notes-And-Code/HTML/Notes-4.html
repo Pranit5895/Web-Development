@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> FORMS </title>
+</head>
+
+<body>
+    <!-- HTML FORMS  -->
+    <h2> THIS IS HTML FORMS </h2>
+    <form action="backend.php">
+        <!-- DIV TAG IS USED FOR GIVING A DIVISION BETWEEN ENTERIES  -->
+        <div>
+            <!-- INPUT TAG USED FOR GETTING INPUT FROM USER WHICH HAS MANY TYPES SUCH AS FILES, NAME, TEXT etc  -->
+            Name: <input type="text">
+        </div>
+        <br>
+        <div>
+            Role: <input type="text">
+        </div>
+        <br>
+        <!-- NAME TAG IS USED BY DATA STORE TO ACCESS THE VALUE OF EMAIL OR ANY OTHER ENTITY  -->
+        <div>
+            Email: <input type="email" name="myEmail">
+        </div>
+        <br>
+        <!-- INPUT DATE TAG GIVES US A COMPLETE CALENDER FOR SELECTING A DATE  -->
+        <div>
+            Date : <input type="date" name="myDate">
+        </div>
+        <br>
+        <!-- INPUT RADIO TAG FOR SELECTING ONE OPTION OUT OF MANY  -->
+        <div>
+            Gender: Male <input type="radio" name="myGender"> Female <input type="radio" name="myGender">
+        </div>
+        <br>
+        <!-- TEXTAREA IS USED FOR WRITING CONTENT  -->
+        <div>
+            Write about yourself : <br><textarea name="myText" cols="90" rows="10"></textarea>
+        </div>
+        <br>
+        <!-- LABEL TAG IS USED TO GO DIRECTLT ONTO AN OPTION  -->
+        <label for="myEligibility"> Are you eligible?</label>
+        <div>
+            <input type="checkbox" name="Eligibility" id="myEligibility">
+        </div>
+        <br>
+        <!-- SELECT OPTION IS USED TO SELECT FROM A LIST OF OPTIONS  -->
+        <div>
+            <label for="car">Car</label>
+            <select name="myCar" id="car">
+                <option value="Polo">Polo</option>
+                <option value="i10">i10</option>
+                <option value="Jetta">Jetta</option>
+                <option value="Ciaz">Ciaz</option>
+                <option value="Swift">Swift</option>
+                <option value="i20">i20</option>
+                <option value="SCross">SCross</option>
+            </select>
+        </div>
+        <br>
+        <!-- INPUT SUBMIT TAG CREATES A BUTTON FOR SUBMITTING THE FORM IN THE ACTION WHERE DATA IS STORED  -->
+        <div>
+            <input type="submit" value="Submit Now">
+            <input type="Reset" value="Reset Now">
+        </div>
+    </form>
+</body>
+
+</html>
