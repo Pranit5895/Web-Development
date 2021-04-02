@@ -7,3 +7,10 @@ CSS takes the responsibility of design in your websites
 Role of CSS
 CSS is a style sheet language that is used to handle the presentation of the web page containing HTML.
 It makes our websites beautiful and modern looking.
+
+CSS SYNTAX
+p { color: blue; }
+where, 
+P stands for the selector and it decides which part of the HTML the CSS will be applied. It states where the CSS property is to be applied.
+Property is used to describe which property you want to change or add. Whether you have to change colour, border, background, width, all these come under property. 
+The last section is for defining the value. All the properties will be changed according to the value we provide.
