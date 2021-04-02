@@ -1,0 +1,5 @@
+CSS gives style to raw HTML
+It stands for Cascading Style Sheets
+CSS is used to give style to our web pages
+CSS is used to make websites responsive
+CSS takes the responsibility of design in your websites 
