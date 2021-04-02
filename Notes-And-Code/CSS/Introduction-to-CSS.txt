@@ -21,3 +21,11 @@ header, p.intro {
     border: 3px;
 }
 Header tag and paragraph tag have just been changed a bit using the class intro to change the background colour to red and border-radius to 3 pixels. 
+
+There are three ways to Add CSS-
+
+1. Inline CSS- CSS is added to the elements directly using the style attributes.
+2. Internal CSS- CSS is kept inside the head tags in <style> tags
+3. External CSS- CSS is kept separately inside a .CSS style sheet. It involves two steps-
+    3.a) First, write the CSS in.CSS file.
+    3.b)Include that CSS file to Markup.
