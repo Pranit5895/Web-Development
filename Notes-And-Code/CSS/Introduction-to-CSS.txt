@@ -14,3 +14,10 @@ where,
 P stands for the selector and it decides which part of the HTML the CSS will be applied. It states where the CSS property is to be applied.
 Property is used to describe which property you want to change or add. Whether you have to change colour, border, background, width, all these come under property. 
 The last section is for defining the value. All the properties will be changed according to the value we provide.
+
+We can also target multiple properties at one time. The syntax is as follows-
+header, p.intro {
+    background-color: red;
+    border: 3px;
+}
+Header tag and paragraph tag have just been changed a bit using the class intro to change the background colour to red and border-radius to 3 pixels. 
