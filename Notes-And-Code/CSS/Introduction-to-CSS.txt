@@ -3,3 +3,7 @@ It stands for Cascading Style Sheets
 CSS is used to give style to our web pages
 CSS is used to make websites responsive
 CSS takes the responsibility of design in your websites 
+
+Role of CSS
+CSS is a style sheet language that is used to handle the presentation of the web page containing HTML.
+It makes our websites beautiful and modern looking.
