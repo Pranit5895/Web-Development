@@ -7,3 +7,5 @@ YOUTUBE CHANNEL FROM WHICH I AM LEARNING IS
 
 <h3> NOTES AND CODES </h3>
 <a href="https://github.com/Pranit5895/Web-Development/tree/main/Notes-And-Code/HTML"> HTML </a>
+<a href="https://github.com/Pranit5895/Web-Development/tree/main/Notes-And-Code/CSS"> CSS </a>
+
