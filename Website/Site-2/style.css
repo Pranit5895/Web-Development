@@ -48,5 +48,9 @@
     position: relative;
     transition: 0.3s ease-in-out;
   }
+
+  .hover-menu div a:hover {
+    text-decoration: underline;
+  }
   
   
