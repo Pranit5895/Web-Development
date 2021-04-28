@@ -57,5 +57,10 @@
     opacity: 0.5;
     right: -120px;
   }
+
+  .hover-menu:hover div {
+    left: 0;
+    opacity: 1;
+  }
   
   
