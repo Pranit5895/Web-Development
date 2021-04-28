@@ -1,0 +1,13 @@
+.hover-menu {
+    position: relative;
+    overflow: hidden;
+    margin: 8px;
+    min-width: 340px;
+    max-width: 480px;
+    max-height: 290px;
+    width: 100%;
+    background: #000;
+    text-align: center;
+    box-sizing: border-box;
+  }
+  
