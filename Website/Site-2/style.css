@@ -37,5 +37,16 @@
     flex-direction: column;
     justify-content: center;
   }
+
+  .hover-menu div a {
+    display: block;
+    line-height: 2;
+    color: #fff;
+    text-decoration: none;
+    opacity: 0.8;
+    padding: 5px 15px;
+    position: relative;
+    transition: 0.3s ease-in-out;
+  }
   
   
