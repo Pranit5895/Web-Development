@@ -14,5 +14,14 @@
   .hover-menu * {
     box-sizing: border-box;
   }
+
+  .hover-menu img {
+    position: relative;
+    max-width: 100%;
+    top: 0;
+    right: 0;
+    opacity: 1;
+    transition: 0.3s ease-in-out;
+  }
   
   
