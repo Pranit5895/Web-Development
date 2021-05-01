@@ -18,4 +18,9 @@
             text-align: left;
             margin-bottom: 25px;
         }
+        /* Styling form-control Label */ 
+        .form-control label {
+            display: block;
+            margin-bottom: 10px;
+        }
 
