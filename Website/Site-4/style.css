@@ -22,3 +22,12 @@ body {
     right: 0;
     margin: auto;
   }
+  .clock .top {
+    position: absolute;
+    width: 3px;
+    height: 8px;
+    background: #262626;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+  }
