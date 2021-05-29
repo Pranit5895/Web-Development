@@ -138,3 +138,11 @@ body {
     margin: 0 auto;
     animation: time 15s infinite linear;
   }
+  .clock .second::before {
+    position: absolute;
+    content: "";
+    background: red;
+    height: 45px;
+    width: 2px;
+    top: 45px;
+  }
