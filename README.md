@@ -32,6 +32,6 @@ YOUTUBE CHANNEL FROM WHICH I AM LEARNING IS
 <a href="https://github.com/Pranit5895/Web-Development/tree/main/Notes-And-Code/HTML"> HTML </a> <br>
 <a href="https://github.com/Pranit5895/Web-Development/tree/main/Notes-And-Code/CSS"> CSS </a><br>
 
-CONTAINS PROJECTS OR SITES THAT I HAVE MADE SO FAR FROM MY LEARNING
+CONTAINS PROJECTS OR SITES THAT I HAVE MADE SO FAR FROM MY LEARNING <br>
 <a href="https://github.com/Pranit5895/Web-Development/tree/main/Website"> WEBSITES </a>
 
