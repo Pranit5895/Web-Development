@@ -96,3 +96,11 @@ body {
       transform: rotate(360deg);
     }
   }
+  .clock .hour::before {
+    position: absolute;
+    content: "";
+    background: #262626;
+    height: 60px;
+    width: 3px;
+    top: 30px;
+  }
