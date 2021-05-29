@@ -113,3 +113,11 @@ body {
     margin: 0 auto;
     animation: time 30s infinite linear;
   }
+  .clock .minute::before {
+    position: absolute;
+    content: "";
+    background: #000;
+    height: 40px;
+    width: 1px;
+    top: 50px;
+  }
