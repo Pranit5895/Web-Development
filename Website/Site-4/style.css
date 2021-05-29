@@ -41,3 +41,13 @@ body {
     right: 0;
     margin: auto 0;
   }
+  .clock .bottom {
+    position: absolute;
+    width: 3px;
+    height: 8px;
+    background: #262626;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+  }
