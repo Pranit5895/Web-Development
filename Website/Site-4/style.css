@@ -121,3 +121,20 @@ body {
     width: 1px;
     top: 50px;
   }
+  .clock .minute::before {
+    position: absolute;
+    content: "";
+    background: #000;
+    height: 40px;
+    width: 1px;
+    top: 50px;
+  }
+  .clock .second {
+    width: 2px;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    animation: time 15s infinite linear;
+  }
