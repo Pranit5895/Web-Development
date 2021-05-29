@@ -91,3 +91,8 @@ body {
     margin: 0 auto;
     animation: time 60s infinite linear;
   }
+  @keyframes time {
+    to {
+      transform: rotate(360deg);
+    }
+  }
