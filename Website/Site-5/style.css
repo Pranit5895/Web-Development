@@ -16,3 +16,12 @@
     align-items: center;
     justify-content: center;
 }
+#illustration-container{
+    border-radius: 2000px;
+    background-color: rgb(255, 255, 255, 0.3);
+    width: 300px;
+    height:300px;
+    align-items: center;
+    justify-content: center;
+    
+}
