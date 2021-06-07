@@ -54,3 +54,14 @@
     font-size: 22px;
     margin: 2rem;
 }
+#blue{
+    color: #099dfd;
+}
+input{
+    margin-top: 20px;
+    border-radius: 5px;
+    width: 90%;
+    border: 1px solid#099dfd;
+    padding: 0.4rem;
+    font-size: 1.25rem;
+}
