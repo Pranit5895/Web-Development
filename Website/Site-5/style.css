@@ -30,3 +30,10 @@
     align-items: center;
     justify-content: center;
 }
+#bottom-text{
+    color: #fff;
+    margin-top: 17rem;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
