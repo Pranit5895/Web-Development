@@ -41,3 +41,11 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 36px;
 }
+#right-pane{
+    display: flex;
+    height: 100%;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
