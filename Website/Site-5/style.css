@@ -65,3 +65,12 @@ input{
     padding: 0.4rem;
     font-size: 1.25rem;
 }
+#submit-button{
+    background-color: #099dfd;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 1rem;
+    font-size: 1.25rem;
+    margin-top: 1rem;
+}
