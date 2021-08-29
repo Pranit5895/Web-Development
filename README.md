@@ -1,5 +1,3 @@
-# Web-Development
-
 THIS REPOSITORY WILL CONTAIN ALL MY NOTES WHICH WILL HELP YOU TO MAKE A FULL FEDGED WEBSITE USING HTML, CSS AND JAVASCRIPT.
 
 # What is HTML?
@@ -22,6 +20,15 @@ Inline - by using the style attribute inside HTML elements
 Internal - by using a <style> element in the <head> section
 External - by using a <link> element to link to an external CSS file
 The most common way to add CSS, is to keep the styles in external CSS files. However, in this tutorial we will use inline and internal styles, because this is easier to demonstrate, and easier for you to try it yourself.
+  
+# JAVA SCRIPT
+  JavaScript is the world's most popular programming language.
+
+JavaScript is the programming language of the Web.
+
+JavaScript is easy to learn.
+
+This tutorial will teach you JavaScript from basic to advanced.
 
 
 
